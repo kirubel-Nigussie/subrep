@@ -24,7 +24,7 @@ Aligned with Approved Quarter Plan:
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/tarikuamisganaw/subrep.git
+git clone https://github.com/iCog-Labs-Dev/subrep.git
 cd subrep
 
 # Install dependencies
