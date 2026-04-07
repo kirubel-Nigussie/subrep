@@ -1,4 +1,4 @@
-# Utilities (`utils/`)
+# Utilities 
 
 **Purpose:** Shared helper functions for TD error computation, logging, and configuration.  
 

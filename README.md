@@ -55,7 +55,7 @@ python main.py
 | `metta/` | PyMeTTa bridge & certificate schema| 
 | `utils/` | TD error computation, logging, helpers| 
 | `tests/` | Validation scripts for each component| 
-| `docs/` | Quarter Plan, Papers, Meeting Notes|
+
 
 
 ## Technical Specifications
@@ -80,11 +80,6 @@ python main.py
 ### MeTTa Integration
 - **Package:** `hyperon` (Python bindings)
 - **Operations:** `add_atom`, `match`, `space`
-
-## Collaboration
-- **Issues:** Track tasks in GitHub Issues (Labels: `env`, `generator`, `certification`, `metta`).
-- **PRs:** All changes require review before merging to `main`.
-- **Documentation:** Update relevant `README.md` files when changing interfaces.
 
 ## Documentation
 - [Quarter Plan](https://docs.google.com/document/d/111xeC5gMT-JcX04iyH3KH-oE2RZIHx3kvvbZmzUaxeE/edit?usp=sharing)
